@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                <title> Кавказские повести </title>
-               <author> Александр Александрович Бестужев-Марлинский <author>
+               <author> Александр Александрович Бестужев-Марлинский </author>
             </titleStmt>
             <respStmt>
                 <persName>Таня Алубаева</persName>
