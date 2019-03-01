@@ -11,12 +11,12 @@
 					</respStmt>
 				</fileDesc>
 			</teiHeader>
-		<text><speech>
-			  <said type="direct"aloud="true"> - Жарко, душно в Дербенте! Взойди-ка на кровлю, Касим; посмотри, как падает за горы солнышко: не краснеет ли запад, не сбираются ли тучи на небе?</said>
-		</speech></text>
-		<text><speech>
-			  <said type="direct"aloud="true">- Нет, ами!</said> 
-			  <author_comment>(дядя)<author_comment>
-			  <said type="direct"aloud="true">-Запад голубее глаз моей сестрицы. Солнце упало ярко, словно "золотой цвет" на ее груди. Ни один взор его не гаснет в тумане.</said>
-		</speech></text>
+			<text><speech>
+			   <said type="direct"aloud="true"> - Жарко, душно в Дербенте! Взойди-ка на кровлю, Касим; посмотри, как падает за горы солнышко: не краснеет ли запад, не сбираются ли тучи на небе?</said>
+			</speech></text>
+			<text><speech>
+		           <said type="direct"aloud="true">- Нет, ами!</said> 
+			   <author_comment>(дядя)<author_comment>
+		           <said type="direct"aloud="true">-Запад голубее глаз моей сестрицы. Солнце упало ярко, словно "золотой цвет" на ее груди. Ни один взор его не гаснет в тумане.</said>
+			</speech></text>
 </TEI>
